@@ -10,8 +10,8 @@
 
 `GR_ID = 'ID ГРУППЫ-ПАЦИЕНТА'`
 
-_как получить токен_
-<video src='https://www.youtube.com/watch?v=f8D6RYNEtlk' width=180/>
+_как получить токен_ - 
+[ссылка на ютуб](https://www.youtube.com/watch?v=f8D6RYNEtlk)
 
 
 
